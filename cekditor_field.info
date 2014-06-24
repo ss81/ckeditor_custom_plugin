@@ -1,0 +1,7 @@
+
+name = cekditor_field Add video token field 	
+description = Add video token field in CKEditor
+package = custom
+core = 7.x
+dependencies[] = ckeditor
+datestamp = "1329828512"
